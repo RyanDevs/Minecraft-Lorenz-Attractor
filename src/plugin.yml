@@ -1,0 +1,9 @@
+main: me.lorenz.Main
+author: RyanDevs
+name: LorenzAttractor
+version: 1.0
+
+commands:
+  lorenz:
+    aliases: [lz,lrnz]
+    description: Creates a Lorenz Attractor at 0,0
